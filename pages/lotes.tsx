@@ -1,5 +1,9 @@
 const LotesPage = () => {
-  return <div>Pagina de lotes</div>;
+  return (
+    <main>
+      <div>Pagina de lotes</div>
+    </main>
+  );
 };
 
 export default LotesPage;
